@@ -1,0 +1,2 @@
+# Educational_Management_System
+ssm技术整合，简易教务管理系统
